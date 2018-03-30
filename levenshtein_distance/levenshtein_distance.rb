@@ -1,7 +1,7 @@
-def levenstein_distance(word_1, word_2)
+def levenshtein_distance(a,b)
 
 end
 
 
-puts levenstein_distance("HEALTH","HANDS")
-puts levenstein_distance("TEAM","MATE")
+puts levenshtein_distance("HEALTH","HANDS")
+puts levenshtein_distance("TEAM","MATE")
